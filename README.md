@@ -88,6 +88,8 @@ Setelah berhasil di-compile, kamu bisa menjalankan programnya:
   [4] CLEAR  
   [5] KELUAR  
   Pilih Menu :  
+
+  ![alt text](image.png)  
   
 👤 Author  
 Nama: Muhammad Hasrul Waliyudin  

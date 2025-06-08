@@ -81,13 +81,7 @@ Setelah berhasil di-compile, kamu bisa menjalankan programnya:
   ./stack_queue
 
 📝 Contoh Output Terminal:
-  ------Operasi Stack------
-  [1] PUSH
-  [2] POP
-  [3] CETAK
-  [4] CLEAR
-  [5] KELUAR
-  Pilih Menu :
+![image](https://github.com/user-attachments/assets/7c743fd3-d40a-47a4-92bd-4a3725fe61f7)
 
 👤 Author
 Nama: Muhammad Hasrul Waliyudin

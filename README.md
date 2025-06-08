@@ -87,7 +87,7 @@ Setelah berhasil di-compile, kamu bisa menjalankan programnya:
 Nama: Muhammad Hasrul Waliyudin  
 Kampus: UNP Kediri  
 Instagram: @mhasrulw  
-GitHub: Hasrull14  
+GitHub: @Hasrull14  
   
     
 🏷️ Tags :   

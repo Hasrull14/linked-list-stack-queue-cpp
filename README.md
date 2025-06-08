@@ -60,10 +60,10 @@ stack_queue.cpp
 Buka terminal atau command prompt, lalu pindah ke direktori tempat file kamu berada.
 
 Contoh compile (gunakan g++):
-  g++ stack.cpp -o stack
-  g++ queue.cpp -o queue
-  g++ stack_queue.cpp -o stack_queue
-  
+    g++ stack.cpp -o stack
+    g++ queue.cpp -o queue
+    g++ stack_queue.cpp -o stack_queue
+    
 Penjelasan:
 g++ = compiler C++
 -o = output file (hasil compile)

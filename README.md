@@ -72,16 +72,22 @@ g++ = compiler C++
 Setelah berhasil di-compile, kamu bisa menjalankan programnya:
 
 🪟 Di Windows (Command Prompt):
-  stack.exe
-  queue.exe
-  stack_queue.exe
+    stack.exe
+    queue.exe
+    stack_queue.exe
 🐧 Di Linux/Mac:
-  ./stack
-  ./queue
-  ./stack_queue
+    ./stack
+    ./queue
+    ./stack_queue
 
 📝 Contoh Output Terminal:
-![image](https://github.com/user-attachments/assets/7c743fd3-d40a-47a4-92bd-4a3725fe61f7)
+    ------Operasi Stack------
+    [1] PUSH
+    [2] POP
+    [3] CETAK
+    [4] CLEAR
+    [5] KELUAR
+    Pilih Menu :
 
 👤 Author
 Nama: Muhammad Hasrul Waliyudin

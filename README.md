@@ -41,7 +41,7 @@ struct node {
 };  
 
 
-💻 Cara Menjalankan Program  
+## 💻 Cara Menjalankan Program  
 Untuk menjalankan program C++ ini di komputer kamu, ikuti langkah-langkah berikut:  
   
 🔧 1. Siapkan Compiler C++  
